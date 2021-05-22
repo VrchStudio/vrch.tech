@@ -1,20 +1,21 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: VRCH
 logo: 
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: VRCH LIMITED
+description: Mixed Reality Toolkit for Architectures of the Near Future
+email: contact@vrch.tech
+# phone: +880 2544 658 256
+address: 86-90 Paul Street <br> London <br> England <br> EC2A 4NE
+copyright: Copyright &copy; 2020 Vrch Limited
 
 menu:
 - {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+# - {name: Blog, link: '/blog'}
+# - {name: Portfolio, link: '/portfolio'}
+# - {name: Contact, link: '/contact'}
+- {name: <b>Try Free Beta </b>, link: '/beta'}
 
 
 #-------------------------------
@@ -38,13 +39,13 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Immersive collaboration for Architects
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+# - {icon: "ti-facebook", link: "#"}
+# - {icon: "ti-instagram", link: "#"}
+# - {icon: "ti-dribbble", link: "#"}
+# - {icon: "ti-twitter", link: "#"}
 
 
 #-------------------------------
