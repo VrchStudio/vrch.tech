@@ -55,10 +55,8 @@ social:
 # About Section
 blurb:
  As a cloud-based mixed-reality design collaboration platform. <br> VRCH puts architects and clients in different locations into a same virtual space for off-site collaborations.
-
-
-# blurb-btn-link: '/about'
-# blurb-btn-name: know more
+blurb-btn-link: '/beta'
+blurb-btn-name: GET STARTED
 
 
 # About Page
@@ -124,32 +122,39 @@ education:
 - {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
 - {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
+#-------------------------------
+# Additional Feature Section
+
+additional-feature-title: More features under development…
+additional-feature:
+- {name: Mobile Support, description: 'PC, VR, phone and tablet users will be able to be in the same virtual space.'}
+- {name: Chinese Language Support, description: 'Design projects in China, the largest building market, remotely.'}
+- {name: Cloud Storage Support, description: 'Seamlessly load 3D files from third-party cloud storage providers.'}
+- {name: Integration with Unreal Engine, description: 'Already have in-house VR visualizers? Import the UE4 scene directly into Vrch platform for best visual.'}
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Try VRCH for Free
 services:
 - {
-    name: UI Design,
-    icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Individual,
+    icon: ti-user,
+    description: 'For individuals & groups who want to experience VRCH beta version',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Education,
+    icon: ti-blackboard,
+    description: 'For architecture schools willing to experiment new ways of immersive education',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Enterprise,
+    icon: ti-headphone-alt,
+    description: 'For evaluation before customised deployment across your organisation',
     active: # Add true to select section
   }
-
-
 
 #-------------------------------
 # Portfolio (Section and Page)
@@ -296,4 +301,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: contact@vrch.tech
