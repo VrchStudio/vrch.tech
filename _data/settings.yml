@@ -4,7 +4,8 @@
 title: VRCH
 logo: 
 author: VRCH LIMITED
-description: Mixed Reality Toolkit for Architectures of the Near Future
+# description: Mixed Reality Toolkit for Architectures of the Near Future
+description: Immersive collaboration for Architects
 email: contact@vrch.tech
 # phone: +880 2544 658 256
 address: 86-90 Paul Street <br> London <br> England <br> EC2A 4NE
@@ -53,10 +54,11 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ As a cloud-based mixed-reality design collaboration platform. <br> VRCH puts architects and clients in different locations into a same virtual space for off-site collaborations.
 
-blurb-btn-link: '/about'
-blurb-btn-name: know more
+
+# blurb-btn-link: '/about'
+# blurb-btn-name: know more
 
 
 # About Page
