@@ -2,13 +2,14 @@
 # General Site Settings
 
 title: VRCH
-logo: 
+logo:
 author: VRCH LIMITED
-# description: Mixed Reality Toolkit for Architectures of the Near Future
-description: Immersive collaboration for Architects
+description: Mixed Reality Toolkit for Architectures of the Near Future
+# description: Immersive collaboration for Architects
 email: contact@vrch.tech
 # phone: +880 2544 658 256
 address: 86-90 Paul Street <br> London <br> England <br> EC2A 4NE
+info: Vrch Limited is registered in England and Wales.
 copyright: Copyright &copy; 2020 Vrch Limited
 
 menu:
@@ -16,7 +17,7 @@ menu:
 # - {name: Blog, link: '/blog'}
 # - {name: Portfolio, link: '/portfolio'}
 # - {name: Contact, link: '/contact'}
-- {name: <b>Try Free Beta </b>, link: '/beta'}
+- {name: <b>Try Free Beta </b>, link: '/signup'}
 
 
 #-------------------------------
@@ -54,10 +55,12 @@ social:
 
 # About Section
 blurb:
- As a cloud-based mixed-reality design collaboration platform. <br> VRCH puts architects and clients in different locations into a same virtual space for off-site collaborations.
-blurb-btn-link: '/beta'
-blurb-btn-name: GET STARTED
+ As a cloud-based mixed-reality design collaboration platform, <br><br>VRCH puts architects and clients in different locations into a same virtual space for off-site collaborations.
 
+# blurb-btn-link: '/about'
+# blurb-btn-name: Read More
+signup-info: 
+ Thanks for your interest in VRCH. As we can only support a limited number of of test users at this time, please sign up with the following information. <br><br>We will contact you as soon as more testing slots become available.
 
 # About Page
 
@@ -123,6 +126,19 @@ education:
 - {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
 #-------------------------------
+# Core Feature Section
+core-feature:
+  - title : "Remote Presentation on PC screen and in VR"
+    image : "assets/vrch/vrch-beta-screenshot-1.jpg"
+    designation : "See each other in virtual project space to reduce travel time and cost for design review meetings"
+    
+  - title : "Prepare VR Scene in One Click"
+    image : "assets/vrch/vrch-beta-screenshot-2.jpg"
+    designation : "Support industry standard FBX file format from Rhino, Revit, SketchUp, 3DS Max, Maya and more"
+    
+  - title : "Handy Tools for Virtual Collaboration"
+    image : "assets/vrch/vrch-beta-screenshot-3.jpg"
+    designation : "Designed for architectural industry like pointer, measurement, drawing markups and screenshot while syncing to every participant in real time."
 # Additional Feature Section
 
 additional-feature-title: More features under development…
@@ -147,7 +163,7 @@ services:
     name: Education,
     icon: ti-blackboard,
     description: 'For architecture schools willing to experiment new ways of immersive education',
-    active: true # Add true to select section
+    active: # Add true to select section
   }
 - {
     name: Enterprise,
@@ -155,6 +171,8 @@ services:
     description: 'For evaluation before customised deployment across your organisation',
     active: # Add true to select section
   }
+service-btn-link: '/signup'
+service-btn-name: Sign Up
 
 #-------------------------------
 # Portfolio (Section and Page)
