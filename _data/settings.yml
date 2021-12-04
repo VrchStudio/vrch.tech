@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: VRCH
-logo:
+logo: "assets/vrch/favicon-white.png"
 author: VRCH LIMITED
 description: Mixed Reality Toolkit for Architectures of the Near Future
 # description: Immersive collaboration for Architects
